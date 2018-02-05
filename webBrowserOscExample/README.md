@@ -3,6 +3,7 @@ This example will send OSC from a webpage to Wekinator. It will send mouse X & Y
 
 ## Usage
 
+* Download and install [Node.js](https://nodejs.org/) if you don't have it already. 
 * Start the server on you computer with `node server.js`
 * All node modules are included
 * Set the IP Address in index.html to the IP Address of the computer where the server is running
